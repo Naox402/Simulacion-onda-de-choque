@@ -6,7 +6,7 @@ Proyecto de aprendizaje en Python con apoyo de Claude. Programé métodos numér
 
 1. Advección (Advección_1D.ipynb): Una onda que viaja, calculada con tres métodos distintos.
 2. Ecuación de Burgers (burgers.ipynb): Cómo nace el choque y por qué importa escribir bien la ecuación.
-3. Crecida en un río (Simulación.ipynb - Sim_CR.ipynb): una creciente viajando por un cauce.
+3. Crecida en un río (Simulación.ipynb - Sim_CR.ipynb): creciente viajando por un cauce.
 
 # Conclusiones
 
